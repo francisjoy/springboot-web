@@ -4,7 +4,7 @@ app:
   notify: appzdev@cloudbourne.co
   
 build:
-  build_file: pom.xml
+  build_file: account-service/pom.xml
   env: DEV
   image_template: springboot-v2
   output_files: target/*.jar
