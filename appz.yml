@@ -25,4 +25,4 @@ properties:
   MYSQL_DB_USERNAME: springbootweb
   MYSQL_SPRINGBOOTWEB_PASSWORD:
     vault: POSTGRESQL_SPRINGBOOTWEB_PASSWORD
-  nano: 82
+  nano: 83
