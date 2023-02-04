@@ -6,7 +6,7 @@ app:
 build:
   build_file: pom.xml
   args:
-    PROJECT: account-service
+    PROJECT: /appz/project/springboot-web/account-service
   env: DEV
   image_template: springboot-v2
   output_files: target/*.jar
